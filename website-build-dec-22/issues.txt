@@ -1,0 +1,3 @@
+
+- Fix CSS in teaching and other pages.
+- Fix past teaching etc.

@@ -1,0 +1,14 @@
+#+TITLE: Website details
+
+
+
+
+* Current Website as of Dec-29-2022-04:05
+
+- Theme: We are using a modified Vaniilla Theme.
+- The modified script files have been moved out of the theme folder.
+- We are using CDN for Katex/Feather. Min JS doesn't work.
+
+  Note /public/ folder is not git controlled. It is generated when we want to deploy the site.
+   
+  

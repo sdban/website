@@ -1,0 +1,8 @@
+(undo-tree-save-format-version . 1)
+"3e4a7ab8f3e4d8df0fb493052c4e73256305f185"
+[nil nil nil nil (25517 26349 500343 706000) 0 nil]
+([nil current ((#("<span style=\"color:red\">[!! FIX IT !!]</span>
+ Fix Research. When clicked it is black. Causing problems
+ 
+" 0 1 (fontified t face markdown-html-tag-delimiter-face) 1 5 (fontified t face markdown-html-tag-name-face) 5 6 (fontified t) 6 11 (fontified t face markdown-html-attr-name-face) 11 12 (fontified t face markdown-html-tag-delimiter-face) 12 23 (fontified t face markdown-html-attr-value-face) 23 24 (fontified t face markdown-html-tag-delimiter-face) 24 25 (fontified t face (rainbow-delimiters-depth-1-face)) 25 37 (fontified t) 37 38 (fontified t face (rainbow-delimiters-depth-1-face)) 38 40 (fontified t face markdown-html-tag-delimiter-face) 40 44 (fontified t face markdown-html-tag-name-face) 44 45 (fontified t face markdown-html-tag-delimiter-face) 45 106 (fontified t)) . -423) (undo-tree-id0 . -105) (undo-tree-id1 . -106) (undo-tree-id2 . -46) (undo-tree-id3 . -46) (undo-tree-id4 . -104) (undo-tree-id5 . -104) (undo-tree-id6 . -106) (undo-tree-id7 . -106) (undo-tree-id8 . -105) (undo-tree-id9 . -105) (undo-tree-id10 . -106) (undo-tree-id11 . -105) (undo-tree-id12 . -105) (undo-tree-id13 . -47) (undo-tree-id14 . -105) (undo-tree-id15 . -47) (undo-tree-id16 . -106) (undo-tree-id17 . -47) (undo-tree-id18 . -105) (undo-tree-id19 . -47) (undo-tree-id20 . -106) (undo-tree-id21 . -106) (undo-tree-id22 . -105) (undo-tree-id23 . -106) 529 (t 25516 7660 277369 680000)) nil (25517 26349 500340 856000) 0 nil])
+nil

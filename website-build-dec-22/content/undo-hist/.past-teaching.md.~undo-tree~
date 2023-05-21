@@ -1,0 +1,20 @@
+(undo-tree-save-format-version . 1)
+"da54fefb75384c721130c4339491a96db081e932"
+[nil nil nil nil (25516 3450 801425 530000) 0 nil]
+([nil nil ((52 . 55) (t 25491 51593 248887 142000)) nil (25516 3450 801424 520000) 0 nil])
+([nil nil ((nil rear-nonsticky nil 126 . 127) (nil invisible markdown-markup 126 . 127) (nil fontified nil 126 . 127) (nil fontified nil 107 . 126) (nil invisible markdown-markup 106 . 107) (nil fontified nil 106 . 107) (nil fontified nil 105 . 106) (105 . 127)) nil (25516 3450 801423 960000) 0 nil])
+([nil nil ((55 . 58)) nil (25516 3450 801422 880000) 0 nil])
+([nil nil ((57 . 60)) nil (25516 3450 801418 570000) 0 nil])
+([nil nil ((52 . 66) (t 25516 3450 815599 871000)) nil (25516 4084 591267 927000) 0 nil])
+([nil nil ((66 . 67)) nil (25516 4084 591267 697000) 0 nil])
+([nil nil ((67 . 69)) nil (25516 4084 591267 517000) 0 nil])
+([nil nil ((#("### Fall 2022 " 0 4 (fontified t markdown-heading (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) markdown-heading-3-atx (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) face markdown-header-delimiter-face) 4 8 (fontified t markdown-heading (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) markdown-heading-3-atx (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) face markdown-header-face-3) 8 13 (fontified t markdown-heading (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) markdown-heading-3-atx (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) face markdown-header-face-3) 13 14 (fontified t markdown-heading (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) markdown-heading-3-atx (52 66 nil nil nil nil nil nil 52 56 56 65 65 66 #<buffer past-teaching.md>) face markdown-header-delimiter-face)) . 52)) nil (25516 4084 591267 327000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . 52) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1)) nil (25516 4084 591267 47000) 0 nil])
+([nil nil ((#("- " 0 1 (fontified t markdown-list-item ((52 54 0 2 "- " nil (52 54 52 52 52 53 53 54))) face markdown-list-face) 1 2 (fontified t markdown-list-item ((52 54 0 2 "- " nil (52 54 52 52 52 53 53 54))))) . 52)) nil (25516 4084 591265 717000) 0 nil])
+([nil current ((#("
+
+
+
+" 0 1 (fontified t) 1 2 (fontified t) 2 3 (fontified t) 3 4 (fontified t)) . -53) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -3) (undo-tree-id3 . -3) (undo-tree-id4 . -4) (undo-tree-id5 . -4) (undo-tree-id6 . -2) (undo-tree-id7 . -2) (undo-tree-id8 . -1)) nil (25516 4084 591263 197000) 0 nil])
+nil

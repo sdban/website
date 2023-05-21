@@ -1,0 +1,20 @@
+(undo-tree-save-format-version . 1)
+"c6b00d6e208e726551a3c685f20dc5efaed4c456"
+[nil nil nil nil (25517 23786 773443 105000) 0 nil]
+([nil nil ((#(" " 0 1 (markdown-list-item ((49 896 0 2 "- " nil (49 51 49 49 49 50 50 51))) fontified t)) . -148) (t 25516 7205 409737 262000)) nil (25517 23786 773442 565000) 0 nil])
+([nil nil ((148 . 149)) nil (25517 23786 773442 295000) 0 nil])
+([nil nil ((#("  " 0 2 (fontified t markdown-list-item ((49 896 0 2 "- " nil (49 51 49 49 49 50 50 51))))) . -144) (undo-tree-id0 . -2) (undo-tree-id1 . -2) (undo-tree-id2 . -1) (undo-tree-id3 . -2) (undo-tree-id4 . -1) (undo-tree-id5 . -1)) nil (25517 23786 773441 575000) 0 nil])
+([nil nil ((144 . 145)) nil (25517 23786 773418 515000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t markdown-list-item ((49 895 0 2 "- " nil (49 51 49 49 49 50 50 51))))) . -265) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) 266 (t 25517 23786 788947 210000)) nil (25517 23789 463921 40000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified nil face markdown-html-attr-value-face markdown-list-item ((49 895 0 2 "- " nil (49 51 49 49 49 50 50 51))))) . 265) (265 . 267) (t 25517 23789 476969 47000)) nil (25517 23810 825895 136000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t markdown-list-item ((49 895 0 2 "- " nil (49 51 49 49 49 50 50 51))) font-lock-multiline t)) . -144) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1)) nil (25517 23810 825892 826000) 0 nil])
+([nil nil ((264 . 265) (t 25517 23810 841142 580000)) nil (25517 23822 268876 542000) 0 nil])
+([nil nil ((#("
+" 0 1 (markdown-yaml-metadata-section (5 42) fontified t)) . -41) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (t 25517 23822 281235 511000)) nil (25517 23846 13300 772000) 0 nil])
+([nil nil ((#("
+" 0 1 (fontified t)) . -47) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (t 25517 23846 25428 481000)) nil (25517 23859 668758 440000) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t markdown-list-item ((47 893 0 2 "- " nil (47 49 47 47 47 48 48 49))))) . -48)) nil (25517 23859 668748 450000) 0 nil])
+([nil current ((48 . 49)) nil (25517 23859 668743 800000) 0 nil])
+nil

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome!</title>
+    <link>https://mavdisk.mnsu.edu/lt1590cr/</link>
+    <description>Recent content on Welcome!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mavdisk.mnsu.edu/lt1590cr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Current Courses</title>
+      <link>https://mavdisk.mnsu.edu/lt1590cr/teaching/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mavdisk.mnsu.edu/lt1590cr/teaching/</guid>
+      <description>Spring 2023 Math 247: Linear Algebra I
+We will explore the algebra of matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites: MATH 122 with C or better or consent.
+Math 280: Discrete Mathematics for Computer Science
+This course is an introduction to mathematical concepts central to theoretical computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://mavdisk.mnsu.edu/lt1590cr/research/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mavdisk.mnsu.edu/lt1590cr/research/</guid>
+      <description>Improving Online Rent-or-Buy Algorithms with Sequential Decision Making and ML Predictions Link In this work we study online rent-or-buy problems as a sequential decision making problem. We show how one can integrate predictions, typically coming from a machine learning (ML) setup, into this framework. Specifically, we consider the ski-rental problem and the dynamic TCP acknowledgment problem. We present new online algorithms and obtain explicit performance bounds in-terms of the accuracy of the prediction.</description>
+    </item>
+    
+    <item>
+      <title>Past Teaching</title>
+      <link>https://mavdisk.mnsu.edu/lt1590cr/past-teaching/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mavdisk.mnsu.edu/lt1590cr/past-teaching/</guid>
+      <description>Summer 2022 Math 112 College Algebra Asynchronous online
+Spring 2022 Math 113: Trigonometry Math 112: College Algebra Math 280: Discrete Mathematics for Computer Science Fall 2021 Math 112: College Algebra Math 113: Trigonometry Summer 2021 Math 112: College Algebra Asynchronous online
+Spring 2021 Math 122: Calculus II Math 223: Vector Calculus Math 321: Differential Equations Flex-Sync classes due to COVID-19
+Fall 2020 Math 112: College Algebra Math 115: Precalculus Math 321: Differential Equations Summer 2020 Math 112: COllege Algebra Asynchronous online.</description>
+    </item>
+    
+    <item>
+      <title>A post</title>
+      <link>https://mavdisk.mnsu.edu/lt1590cr/apost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mavdisk.mnsu.edu/lt1590cr/apost/</guid>
+      <description>Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio. Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate vestibulum lorem.</description>
+    </item>
+    
+    <item>
+      <title>About this Website</title>
+      <link>https://mavdisk.mnsu.edu/lt1590cr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mavdisk.mnsu.edu/lt1590cr/about/</guid>
+      <description>This website is generated using the static site generator Hugo using a modified version of the Vanilla Bootstrap theme.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+baseURL = 'https://mavdisk.mnsu.edu/lt1590cr/' 
+languageCode = 'en-us'
+title = "Welcome!"
+
+theme = "vanilla-bootstrap-hugo-theme" 
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+# Note: We can include a picture by putting it in the static folder and then using markdown to
+# use it in a html page.
+# I need to fix the icons here. 
+
+# made a Change to feather. 
+
+
+[permalinks]
+post = "/:filename/"
+
+[[menu.nav]]
+name = "Home"
+pre = "home"
+url = "/"
+weight = 1
+
+[[menu.nav]]
+name = "Research"
+pre = "coffee"
+url = "/research/"
+weight = 3
+
+[[menu.nav]]
+name = "Teaching"
+pre = "book-open"
+url = "/teaching/"
+weight = 2
+
+[[menu.nav]]
+name = "About"
+pre = "tool"
+url = "/about/"
+weight = 4
+
+#[[menu.nav]]
+#name = "RSS"
+#pre = "rss"
+#url = "/index.xml"
+#weight = 5
+
+[params]
+includeBootstrapJs = true
+showActiveNav = false # NOTE: this causes some issues so it is disabed. 
+containerMaxWidth = "700px"
+dateFormat = "Jan 2, 2006"
+# homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
+# footerText = "WoohOO Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
+hideFooter = true
+katex = true
+# Katex is fine. But Inline needed a hack. This hack is now in the Katex file. 
+
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xHTML = false
+
+  [markup.highlight]
+  codeFences = true
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
+
+  [markup.tableOfContents]
+  endLevel = 6
+  startLevel = 2
+
+
